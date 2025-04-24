@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Mallapu-Mahesh-Babu/", // 👈 this line is critical for GitHub Pages
+  base: "/", // 👈 this line is critical for GitHub Pages
   plugins: [react(), tailwindcss()],
 });

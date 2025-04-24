@@ -1,19 +1,19 @@
 const navLinks = [
     {
       name: "Work",
-      link: "#work",
+      link: "work",
     },
     {
       name: "Experience",
-      link: "#experience",
+      link: "experience",
     },
     {
       name: "Skills",
-      link: "#skills",
+      link: "skills",
     },
     {
       name: "Testimonials",
-      link: "#testimonials",
+      link: "testimonials",
     },
   ];
   
@@ -29,10 +29,10 @@ const navLinks = [
   ];
   
   const counterItems = [
-    { value: 15, suffix: "+", label: "Years of Experience" },
+    { value: 50, suffix: "+", label: "LeetCode Problems" },
     { value: 200, suffix: "+", label: "Satisfied Clients" },
-    { value: 108, suffix: "+", label: "Completed Projects" },
-    { value: 90, suffix: "%", label: "Client Retention Rate" },
+    { value: 2, suffix: "", label: "Completed Projects" },
+    { value: 1, suffix: "", label: "Project Pending" },
   ];
   
   const logoIconsList = [
